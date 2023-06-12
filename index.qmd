@@ -1,0 +1,24 @@
+---
+title: "Derek Meyer"
+image: avatar.png
+about: 
+  template: trestles
+  links: 
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/derek-meyer-289126227/"
+    - text: GitHub
+      url: "https://github.com/derekmeyer37"
+    - text: Resume
+      url: resume.pdf
+comments: false
+---
+:::{.column-page}
+
+## Bio
+
+## Projects
+
+## R-Package
+
+:::
+
