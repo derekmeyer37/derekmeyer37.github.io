@@ -6,19 +6,27 @@ about:
   links: 
     - text: LinkedIn
       url: "https://www.linkedin.com/in/derek-meyer-289126227/"
+      target: "_blank" 
     - text: GitHub
       url: "https://github.com/derekmeyer37"
+      target: "_blank"
     - text: Resume
       url: resume.pdf
+      target: "_blank"
+      
 comments: false
 ---
-:::{.column-page}
 
+::: column-page
 ## Bio
+Hello! I am a dedicated biostatistician with a passion for unraveling the complexities of health data. I graduated from Brigham Young University with a bachelor's degree in Biostatistics, where I honed my skills in data analysis and statistical modeling. Currently, I am pursuing a Master's degree in biostatistics at the University of Utah, further expanding my expertise in this dynamic field. Throughout my academic journey, I have actively engaged in multiple research assistant positions, allowing me to gain valuable experience in applying statistical methodologies to real-world problems. One of my notable achievements includes my contribution to the development of epiworldR, an R package aimed at facilitating epidemiological research. Moreover, I am thrilled to be part of cutting-edge research projects, actively collaborating on research papers within my field. Feel free to explore my website to learn more about my work and interests!
 
-## Projects
+## Selected Projects
 
-## R-Package
+#### Presentations
+[INSNA Sunbelt Conference](https://www.insna.org) | epiworldR | 2023  
+[BYU Student Research Conference](https://src.byu.edu) | Medical Mistrust in Communities of Color | 2022
 
+#### R-Package
+[epiworldR](https://github.com/UofUEpiBio/epiworldR) | Fast Epidemiological Agent-Based Modeling | 2023
 :::
-
