@@ -1,0 +1,11 @@
+/* css styles */
+a,
+a:link,
+a:visited {
+  color: darkblue;
+}
+
+/* CSS properties for trestles icons */
+.fa {
+  border-color: darkblue;
+}
