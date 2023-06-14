@@ -24,9 +24,9 @@ Hello! I am a dedicated biostatistician with a passion for unraveling the comple
 ## Selected Projects
 
 #### Presentations
-[INSNA Sunbelt Conference](https://www.insna.org) | epiworldR | 2023  
-[BYU Student Research Conference](https://src.byu.edu) | Medical Mistrust in Communities of Color | 2022
+[INSNA Sunbelt Conference](https://www.insna.org){target="_blank"} | epiworldR | 2023  
+[BYU Student Research Conference](https://src.byu.edu){target="_blank"} | Medical Mistrust in Communities of Color | 2022
 
 #### R-Package
-[epiworldR](https://github.com/UofUEpiBio/epiworldR) | Fast Epidemiological Agent-Based Modeling | 2023
+[epiworldR](https://github.com/UofUEpiBio/epiworldR){target="_blank"} | Fast Epidemiological Agent-Based Modeling | 2023
 :::
