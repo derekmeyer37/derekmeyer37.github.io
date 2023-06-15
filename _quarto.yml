@@ -7,6 +7,7 @@ project:
 
 website:
   title: "Derek Meyer"
+  google-analytics: G-GPC7SMWW4V
   navbar:
     right:
       - href: index.qmd
